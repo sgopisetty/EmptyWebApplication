@@ -1,0 +1,5 @@
+C:\projects\EmptyWebApplication\EmptyWebApplication\bin\EmptyWebApplication.dll
+C:\projects\EmptyWebApplication\EmptyWebApplication\bin\EmptyWebApplication.pdb
+C:\projects\EmptyWebApplication\EmptyWebApplication\obj\Debug\EmptyWebApplication.csprojResolveAssemblyReference.cache
+C:\projects\EmptyWebApplication\EmptyWebApplication\obj\Debug\EmptyWebApplication.dll
+C:\projects\EmptyWebApplication\EmptyWebApplication\obj\Debug\EmptyWebApplication.pdb
